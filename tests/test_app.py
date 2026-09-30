@@ -25,4 +25,4 @@ class TestStrings:
 
     def test_multiple(self):
         """Test multiplying two positive numbers."""
-        assert test_multiple(9, 9) == 81
+        assert multiple(9, 9) == 81
